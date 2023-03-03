@@ -145,8 +145,16 @@ background-color: rgba(236, 214, 196, 0.53);
   }
 
   .menu {
-    display: none;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
   }
+    .conteudoEscrito  {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+    
 
   .bot {
     height: 300px;
