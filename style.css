@@ -137,4 +137,35 @@ background-color: rgba(236, 214, 196, 0.53);
 
 }
 
-@media (min-width: 700px){}
+@media (max-width: 768px) {
+  /* estilos para telas menores que 768px de largura */
+  .cabecalho {
+    flex-direction: column;
+    justify-content: center;
+  }
+
+  .menu {
+    display: none;
+  }
+
+  .bot {
+    height: 300px;
+  }
+}
+
+@media (min-width: 769px) {
+  /* estilos para telas maiores ou iguais a 769px de largura */
+  .cabecalho {
+    flex-direction: row;
+    justify-content: space-around;
+  }
+
+  .menu {
+    display: flex;
+  }
+
+  .bot {
+    height: 430px;
+  }
+}
+
