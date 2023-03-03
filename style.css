@@ -150,6 +150,7 @@ background-color: rgba(236, 214, 196, 0.53);
     justify-content: center;
   }
     .conteudoEscrito  {
+    order: 1;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -157,6 +158,7 @@ background-color: rgba(236, 214, 196, 0.53);
     
 
   .bot {
+    order: 2;
     display: flex;
     flex-direction: column;
     justify-content: center;
