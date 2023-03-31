@@ -9,6 +9,5 @@ Este projeto é ótimo para iniciantes em desenvolvimento web que desejam aprend
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - HTML e CSS
-- JavaScript
 - Git e Github
 - Figma
