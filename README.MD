@@ -4,3 +4,11 @@ A página foi criada com o objetivo de demonstrar como é possível criar uma p�
 
 Este projeto é ótimo para iniciantes em desenvolvimento web que desejam aprender HTML e CSS e criar suas próprias páginas da web. Ele também é útil para aqueles que já têm alguma experiência em desenvolvimento web e desejam aprimorar suas habilidades em HTML e CSS.
 
+## 🚀 Tecnologias
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- HTML e CSS
+- JavaScript
+- Git e Github
+- Figma
